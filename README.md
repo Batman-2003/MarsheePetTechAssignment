@@ -1,8 +1,15 @@
 # Gaurav Khaire <br><br>
 
 ## Build Instructions:
-    1. ArduinoIDE: GoTo ArduinoIDE Folder and 
+### NOTE: Please enter your WiFi Credentials <br>
+    1. ArduinoIDE: Just Run the `assignment.ino` file. <br>
+    2. PlatformIO: Import the `AssignmentPIO/AssignmentPIO` folder. <br>
 
 ## References:
-    LittleFS: [https://randomnerdtutorials.com/esp32-write-data-littlefs-arduino/]
-    NTP: []() <br>
+LittleFS: [https://randomnerdtutorials.com/esp32-write-data-littlefs-arduino/]. <br>
+DeepSleep: [https://randomnerdtutorials.com/esp32-write-data-littlefs-arduino/] <br>
+NTP: [https://lastminuteengineers.com/esp32-ntp-server-date-time-tutorial/] <br>
+<br><br>PINOUT: <br>
+![pinout](ESP32-pinout-diagram.jpg)
+
+
