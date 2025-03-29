@@ -2,8 +2,8 @@
 
 ## Build Instructions:
 ### NOTE: Please enter your WiFi Credentials <br>
-    1. ArduinoIDE: Just Run the `assignment.ino` file. <br>
-    2. PlatformIO: Import the `AssignmentPIO/AssignmentPIO` folder. <br>
+    1. ArduinoIDE: Just Run the `assignment.ino` file.
+    2. PlatformIO: Import the `AssignmentPIO/AssignmentPIO` folder.
 
 ## References:
 LittleFS: [https://randomnerdtutorials.com/esp32-write-data-littlefs-arduino/]. <br>
