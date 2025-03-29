@@ -1,5 +1,5 @@
 # Gaurav Khaire <br><br>
-# Assignment:
+# Task/Assignment:
 [Assignment](assignmentDoc.pdf)
 
 ## Build Instructions:
