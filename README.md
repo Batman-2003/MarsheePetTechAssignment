@@ -1,4 +1,6 @@
 # Gaurav Khaire <br><br>
+# Assignment:
+[Assignment](assignmentDoc.pdf)
 
 ## Build Instructions:
 ### NOTE: Please enter your WiFi Credentials <br>
